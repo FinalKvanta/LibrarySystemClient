@@ -1,5 +1,8 @@
 # LibrarySystemClient — Blazor-клиент для CoreWCF-сервиса
 
+## Скриншоты
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e465fc34-8260-4de9-be59-ead4ada1a4f7" />
+
 ## Описание
 
 Веб-приложение на Blazor Server для взаимодействия с CoreWCF-сервисом управления библиотекой (КТ-4). Поддерживает два транспорта (HTTP/TCP), аутентификацию, ролевую авторизацию, полный CRUD, обработку ошибок и unit-тесты.
